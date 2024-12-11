@@ -1,0 +1,17 @@
+[Desktop Entry]
+Name=Heathers-GTK
+Type=X-GNOME-Metatheme
+Comment=A clean and modern GTK theme designed for XFCE.
+
+[X-GNOME-Metatheme]
+GtkTheme=Heathers-GTK
+MetacityTheme=Heathers-GTK
+XfwmTheme=Heathers-GTK
+CursorTheme=Adwaita
+IconTheme=Adwaita
+
+[Settings]
+# Desktop background settings (optional, for completeness)
+BackgroundImage=
+BackgroundColor=#2E3440
+FontName=Sans 10

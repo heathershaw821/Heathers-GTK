@@ -1,0 +1,12 @@
+gtk-color-scheme = "bg_color:#2E3440\nfg_color:#D8DEE9\naccent_color:#88C0D0"
+
+style "default"
+{
+    bg[NORMAL] = @bg_color
+    fg[NORMAL] = @fg_color
+    bg[ACTIVE] = @accent_color
+    fg[ACTIVE] = @bg_color
+    engine "pixmap" {}
+}
+
+widget_class "*" style "default"
